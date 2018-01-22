@@ -6,7 +6,7 @@
 
 # Nächster Termin: 31. Januar, 18:45 Uhr
 
-~~17. Januar, 18:45 Uhr~~
+- [x] ~~17. Januar, 18:45 Uhr~~
 
 **Treffpunkt:**
   Oben, neben den Kanonen am alten Zoll.
