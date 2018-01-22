@@ -9,7 +9,7 @@
 ~~17. Januar, 18:45 Uhr~~
 
 **Treffpunkt:**
-  An der Statue am alten Zoll.
+  Oben, neben den Kanonen am alten Zoll.
 
 **Google Maps:** [hier](https://goo.gl/maps/FVrC2b1B3gN2)
 
