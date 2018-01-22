@@ -4,8 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: 17. Januar, 18:45 Uhr
+# Nächster Termin: 31. Januar, 18:45 Uhr
 
+~~17. Januar, 18:45 Uhr~~
 
 **Treffpunkt:**
   An der Statue am alten Zoll.
