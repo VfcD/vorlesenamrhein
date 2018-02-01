@@ -4,8 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: 31. Januar, 18:45 Uhr
+# Nächster Termin: Valentinstagsspecial am 14. Februar, 18:45 Uhr
 
+- [x] ~~31. Januar, 18:45 Uhr~~
 - [x] ~~17. Januar, 18:45 Uhr~~
 
 **Treffpunkt:**
