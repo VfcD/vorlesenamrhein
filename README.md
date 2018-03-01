@@ -4,14 +4,16 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: ~~1. März~~ 28. Februar, 18:45 Uhr
+# Nächster Termin: 14. März, 18:45 Uhr
 
+- [x] ~~28. Februar, 18:45 Uhr~~
 - [x] ~~14. Februar, 18:45 Uhr~~
 - [x] ~~31. Januar, 18:45 Uhr~~
 - [x] ~~17. Januar, 18:45 Uhr~~
 
 **Treffpunkt:**
-  Oben, neben den Kanonen am alten Zoll.
+  Oben, bei den Kanonen am alten Zoll.
+  Bei Regen, unterm Pavilion direkt "darunter" am Rhein.
 
 **Google Maps:** [hier](https://goo.gl/maps/FVrC2b1B3gN2)
 
