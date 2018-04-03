@@ -4,9 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: 28. März, 18:45 Uhr
+# Nächster Termin: Dienstag, 10. April, 18:15 Uhr
 
-
+- [x] ~~28. März, 18:45 Uhr~~
 - [x] ~~14. März, 18:45 Uhr~~
 - [x] ~~28. Februar, 18:45 Uhr~~
 - [x] ~~14. Februar, 18:45 Uhr~~
