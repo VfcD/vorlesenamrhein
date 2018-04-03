@@ -9,6 +9,7 @@
 **Treffpunkt:**
   Oben, bei den Kanonen am alten Zoll.
   Bei Regen, unterm Pavilion direkt "darunter" am Rhein.
+
 **Google Maps:** [hier](https://goo.gl/maps/FVrC2b1B3gN2)
 
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
