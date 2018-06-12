@@ -4,7 +4,7 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Dienstag, 05. Juni, 18:00 Uhr
+# Nächster Termin: Dienstag, 19. Juni, 18:00 Uhr
 
 **Treffpunkt:**
   Oben, bei den Kanonen am alten Zoll.
@@ -15,6 +15,7 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
+- [x] ~~Dienstag, 05. Juni, 18:00 Uhr~~
 - [x] ~~Dienstag, 22. Mai, 18:15 Uhr~~
 - [x] ~~Dienstag, 08. Mai, 18:15 Uhr~~
 - [x] ~~Dienstag, 24. April, 18:15 Uhr~~
