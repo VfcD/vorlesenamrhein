@@ -17,6 +17,7 @@
 **Historie:**
 - [x] ~~Dienstag, 28. August, 18:00 Uhr~~
 - [x] ~~Dienstag, 14. August, 18:00 Uhr~~
+- [x] ~~Dienstag, 31. Juli, 18:00 Uhr~~
 - [x] ~~Dienstag, 17. Juli, 18:00 Uhr~~
 - [x] ~~Dienstag, 03. Juli, 18:00 Uhr~~
 - [x] ~~Dienstag, 19. Juni, 18:00 Uhr~~
