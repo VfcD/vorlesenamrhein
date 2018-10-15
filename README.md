@@ -4,7 +4,7 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Dienstag, 09. Oktober, 18:00 Uhr
+# Nächster Termin: Mittwoch, 24. Oktober, 18:15 Uhr
 
 **Treffpunkt:**
   Oben, bei den Kanonen am alten Zoll.
@@ -15,6 +15,7 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
+- [x] ~~Dienstag, 09. Oktober, 18:00 Uhr~~
 - [x] ~~Dienstag, 25. September, 18:00 Uhr~~
 - [x] ~~Dienstag, 11. September, 18:00 Uhr~~
 - [x] ~~Dienstag, 28. August, 18:00 Uhr~~
