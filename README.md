@@ -15,7 +15,7 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
-- [x] ~~Mittwoch, 21. November, 18:15 Uhr
+- [x] ~~Mittwoch, 21. November, 18:15 Uhr~~
 - [x] ~~Mittwoch, 07. November, 18:15 Uhr~~
 - [x] ~~Mittwoch, 24. Oktober, 18:15 Uhr~~
 - [x] ~~Dienstag, 09. Oktober, 18:00 Uhr~~
