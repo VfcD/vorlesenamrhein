@@ -4,7 +4,7 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Mittwoch, 05. Dezember, 18:15 Uhr
+# Nächster Termin: Mittwoch, 19. Dezember, 18:15 Uhr
 
 **Treffpunkt:**
   Oben, bei den Kanonen am alten Zoll.
@@ -15,6 +15,7 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
+- [x] ~~Mittwoch, 05. Dezember, 18:15 Uhr~~
 - [x] ~~Mittwoch, 21. November, 18:15 Uhr~~
 - [x] ~~Mittwoch, 07. November, 18:15 Uhr~~
 - [x] ~~Mittwoch, 24. Oktober, 18:15 Uhr~~
