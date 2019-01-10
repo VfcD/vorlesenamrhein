@@ -5,7 +5,32 @@
 > culturalcat.com/?p=410
 
 # Nächster Termin: Mittwoch, 16. Januar, 18:15 Uhr
-### Folgende Termine:
+#### Folgende Termine:
+- [ ] Mittwoch,	30. Januar, 18:15 Uhr
+- [ ] Mittwoch,	13. Februar, 18:15 Uhr
+- [ ] Mittwoch,	27. Februar, 18:15 Uhr
+- [ ] Mittwoch,	13. März, 18:15 Uhr
+- [ ] Mittwoch,	27. März, 18:15 Uhr
+- [ ] Mittwoch,	10. April, 18:15 Uhr
+- [ ] Mittwoch,	24. April, 18:15 Uhr
+- [ ] Mittwoch,	8. Mai, 18:15 Uhr
+- [ ] Mittwoch,	22. Mai, 18:15 Uhr
+- [ ] Mittwoch,	5. Juni, 18:15 Uhr
+- [ ] Mittwoch,	19. Juni, 18:15 Uhr
+- [ ] Mittwoch,	3. Juli, 18:15 Uhr
+- [ ] Mittwoch,	17. Juli, 18:15 Uhr
+- [ ] Mittwoch,	31. Juli, 18:15 Uhr
+- [ ] Mittwoch,	14. August, 18:15 Uhr
+- [ ] Mittwoch,	28. August, 18:15 Uhr
+- [ ] Mittwoch,	11. September, 18:15 Uhr
+- [ ] Mittwoch,	25. September, 18:15 Uhr
+- [ ] Mittwoch,	9. Oktober, 18:15 Uhr
+- [ ] Mittwoch,	23. Oktober, 18:15 Uhr
+- [ ] Mittwoch,	6. November, 18:15 Uhr
+- [ ] Mittwoch,	20. November, 18:15 Uhr
+- [ ] Mittwoch,	4. Dezember, 18:15 Uhr
+- [ ] Mittwoch,	18. Dezember, 18:15 Uhr
+
 
 **Treffpunkt:**
   Oben, bei den Kanonen am alten Zoll.
@@ -16,7 +41,7 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
-- [x] ~~Mittwoch, 02. Januar, 18:15 Uhr
+- [x] ~~Mittwoch, 02. Januar, 18:15 Uhr~~
 - [x] ~~Mittwoch, 19. Dezember, 18:15 Uhr~~
 - [x] ~~Mittwoch, 05. Dezember, 18:15 Uhr~~
 - [x] ~~Mittwoch, 21. November, 18:15 Uhr~~
