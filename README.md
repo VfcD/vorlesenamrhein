@@ -4,11 +4,8 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Mittwoch, 16. Januar, 18:15 Uhr
+# Nächster Termin: Mittwoch, 27. Februar, 18:15 Uhr
 #### Folgende Termine:
-- [ ] Mittwoch,	30. Januar, 18:15 Uhr
-- [ ] Mittwoch,	13. Februar, 18:15 Uhr
-- [ ] Mittwoch,	27. Februar, 18:15 Uhr
 - [ ] Mittwoch,	13. März, 18:15 Uhr
 - [ ] Mittwoch,	27. März, 18:15 Uhr
 - [ ] Mittwoch,	10. April, 18:15 Uhr
@@ -41,6 +38,9 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
+- [x] ~~Mittwoch,	13. Februar, 18:15 Uhr~~
+- [x] ~~Mittwoch,	30. Januar, 18:15 Uhr~~
+- [x] ~~Mittwoch,	16. Januar, 18:15 Uhr~~
 - [x] ~~Mittwoch, 02. Januar, 18:15 Uhr~~
 - [x] ~~Mittwoch, 19. Dezember, 18:15 Uhr~~
 - [x] ~~Mittwoch, 05. Dezember, 18:15 Uhr~~
