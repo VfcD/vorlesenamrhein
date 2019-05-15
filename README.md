@@ -38,7 +38,7 @@
 - [x] ~~Mittwoch,	8. Mai, 18:15 Uhr~~
 - [x] ~~Mittwoch,	24. April, 18:15 Uhr~~
 - [x] ~~Mittwoch,	10. April, 18:15 Uhr~~
-- [x] ~~Mittwoch, 27. März, 18:15 Uhr
+- [x] ~~Mittwoch, 27. März, 18:15 Uhr~~
 - [x] ~~Mittwoch,	13. März, 18:15 Uhr~~
 - [x] ~~Mittwoch, 27. Februar, 18:15 Uhr~~
 - [x] ~~Mittwoch,	13. Februar, 18:15 Uhr~~
