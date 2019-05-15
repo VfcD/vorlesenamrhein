@@ -4,13 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Mittwoch, 27. März, 18:15 Uhr
+# Nächster Termin: Mittwoch, 22. Mai, 18:15 Uhr
 #### Folgende Termine:
 
-- [ ] Mittwoch,	10. April, 18:15 Uhr
-- [ ] Mittwoch,	24. April, 18:15 Uhr
-- [ ] Mittwoch,	8. Mai, 18:15 Uhr
-- [ ] Mittwoch,	22. Mai, 18:15 Uhr
 - [ ] Mittwoch,	5. Juni, 18:15 Uhr
 - [ ] Mittwoch,	19. Juni, 18:15 Uhr
 - [ ] Mittwoch,	3. Juli, 18:15 Uhr
@@ -37,6 +33,12 @@
 **Facebook:** [hier](https://www.facebook.com/vfcd1/)
 
 **Historie:**
+
+
+- [x] ~~Mittwoch,	8. Mai, 18:15 Uhr~~
+- [x] ~~Mittwoch,	24. April, 18:15 Uhr~~
+- [x] ~~Mittwoch,	10. April, 18:15 Uhr~~
+- [x] ~~Mittwoch, 27. März, 18:15 Uhr
 - [x] ~~Mittwoch,	13. März, 18:15 Uhr~~
 - [x] ~~Mittwoch, 27. Februar, 18:15 Uhr~~
 - [x] ~~Mittwoch,	13. Februar, 18:15 Uhr~~
