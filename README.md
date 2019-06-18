@@ -4,11 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Mittwoch, 22. Mai, 18:15 Uhr
+# Nächster Termin: Mittwoch,	19. Juni, 18:15 Uhr
 #### Folgende Termine:
 
-- [ ] Mittwoch,	5. Juni, 18:15 Uhr
-- [ ] Mittwoch,	19. Juni, 18:15 Uhr
 - [ ] Mittwoch,	3. Juli, 18:15 Uhr
 - [ ] Mittwoch,	17. Juli, 18:15 Uhr
 - [ ] Mittwoch,	31. Juli, 18:15 Uhr
@@ -34,7 +32,8 @@
 
 **Historie:**
 
-
+- [x] ~~Mittwoch,	5. Juni, 18:15 Uhr~~
+- [x] ~~Mittwoch, 22. Mai, 18:15 Uhr~~
 - [x] ~~Mittwoch,	8. Mai, 18:15 Uhr~~
 - [x] ~~Mittwoch,	24. April, 18:15 Uhr~~
 - [x] ~~Mittwoch,	10. April, 18:15 Uhr~~
