@@ -4,22 +4,9 @@
 ![reading cat](CatReadingBook.jpg)
 > culturalcat.com/?p=410
 
-# Nächster Termin: Mittwoch,	19. Juni, 18:15 Uhr
+# Nächster Termin: findet aktuell nicht statt
 #### Folgende Termine:
 
-- [ ] Mittwoch,	3. Juli, 18:15 Uhr
-- [ ] Mittwoch,	17. Juli, 18:15 Uhr
-- [ ] Mittwoch,	31. Juli, 18:15 Uhr
-- [ ] Mittwoch,	14. August, 18:15 Uhr
-- [ ] Mittwoch,	28. August, 18:15 Uhr
-- [ ] Mittwoch,	11. September, 18:15 Uhr
-- [ ] Mittwoch,	25. September, 18:15 Uhr
-- [ ] Mittwoch,	9. Oktober, 18:15 Uhr
-- [ ] Mittwoch,	23. Oktober, 18:15 Uhr
-- [ ] Mittwoch,	6. November, 18:15 Uhr
-- [ ] Mittwoch,	20. November, 18:15 Uhr
-- [ ] Mittwoch,	4. Dezember, 18:15 Uhr
-- [ ] Mittwoch,	18. Dezember, 18:15 Uhr
 
 
 **Treffpunkt:**
